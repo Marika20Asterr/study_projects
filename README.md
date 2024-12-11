@@ -1,2 +1,2 @@
 # study_projects
-hello, world! you can see here few notebooks from my study projects.
+hello, world! here you can see few notebooks from my study projects.
